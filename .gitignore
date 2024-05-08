@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+*.env
+*.env.local
+*.env.production
+*.pyc
+*.jsx
+*.js.map
+
+# Ignore backend and frontend folders specifically
+/backend/.gitignore
+/frontend/.gitignore
